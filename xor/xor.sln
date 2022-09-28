@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xor", "xor.csproj", "{5512EDAA-C724-4B5A-B9B1-612B0F0CB22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5512EDAA-C724-4B5A-B9B1-612B0F0CB22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5512EDAA-C724-4B5A-B9B1-612B0F0CB22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5512EDAA-C724-4B5A-B9B1-612B0F0CB22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5512EDAA-C724-4B5A-B9B1-612B0F0CB22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E51B4822-1E8F-4B41-A76A-0203AE836055}
+	EndGlobalSection
+EndGlobal
