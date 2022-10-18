@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\bin\Debug\net6.0\PBKDF2.exe
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\bin\Debug\net6.0\PBKDF2.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\bin\Debug\net6.0\PBKDF2.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\bin\Debug\net6.0\PBKDF2.dll
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\bin\Debug\net6.0\ref\PBKDF2.dll
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\bin\Debug\net6.0\PBKDF2.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.dll
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\ref\PBKDF2.dll
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\PBKDF2\obj\Debug\net6.0\PBKDF2.genruntimeconfig.cache

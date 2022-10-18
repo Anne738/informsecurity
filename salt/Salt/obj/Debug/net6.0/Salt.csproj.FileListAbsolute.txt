@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\bin\Debug\net6.0\Salt.exe
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\bin\Debug\net6.0\Salt.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\bin\Debug\net6.0\Salt.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\bin\Debug\net6.0\Salt.dll
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\bin\Debug\net6.0\ref\Salt.dll
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\bin\Debug\net6.0\Salt.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.dll
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\ref\Salt.dll
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\Salt\obj\Debug\net6.0\Salt.genruntimeconfig.cache
