@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\bin\Debug\net6.0\5.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\bin\Debug\net6.0\5.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\bin\Debug\net6.0\5.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\bin\Debug\net6.0\5.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\bin\Debug\net6.0\ref\5.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\bin\Debug\net6.0\5.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\ref\5.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\5\obj\Debug\net6.0\5.genruntimeconfig.cache
