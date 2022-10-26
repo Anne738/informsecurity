@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\bin\Debug\net6.0\encrfile.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\bin\Debug\net6.0\encrfile.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\bin\Debug\net6.0\encrfile.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\bin\Debug\net6.0\encrfile.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\bin\Debug\net6.0\ref\encrfile.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\bin\Debug\net6.0\encrfile.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\ref\encrfile.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\encrfile\obj\Debug\net6.0\encrfile.genruntimeconfig.cache

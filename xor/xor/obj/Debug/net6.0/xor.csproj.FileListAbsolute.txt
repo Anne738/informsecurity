@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\bin\Debug\net6.0\xor.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\bin\Debug\net6.0\xor.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\bin\Debug\net6.0\xor.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\bin\Debug\net6.0\xor.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\bin\Debug\net6.0\ref\xor.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\bin\Debug\net6.0\xor.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\ref\xor.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\xor\xor\obj\Debug\net6.0\xor.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xor", "xor.csproj", "{F8E12218-4A8D-4525-A390-043C1CBD1860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encrfile", "..\encrfile\encrfile.csproj", "{0A4CB7A5-2368-4D69-935E-B8346B59D831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E12218-4A8D-4525-A390-043C1CBD1860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E12218-4A8D-4525-A390-043C1CBD1860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E12218-4A8D-4525-A390-043C1CBD1860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E12218-4A8D-4525-A390-043C1CBD1860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4CB7A5-2368-4D69-935E-B8346B59D831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4CB7A5-2368-4D69-935E-B8346B59D831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4CB7A5-2368-4D69-935E-B8346B59D831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4CB7A5-2368-4D69-935E-B8346B59D831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F8AECFF-22A9-483E-A917-96B43D0CF52B}
+	EndGlobalSection
+EndGlobal
