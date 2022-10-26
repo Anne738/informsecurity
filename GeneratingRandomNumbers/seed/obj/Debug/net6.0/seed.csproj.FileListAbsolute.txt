@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\bin\Debug\net6.0\seed.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\bin\Debug\net6.0\seed.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\bin\Debug\net6.0\seed.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\bin\Debug\net6.0\seed.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\bin\Debug\net6.0\ref\seed.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\bin\Debug\net6.0\seed.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\ref\seed.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\seed\obj\Debug\net6.0\seed.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\bin\Debug\net6.0\generaterundomnambers.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\bin\Debug\net6.0\generaterundomnambers.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\bin\Debug\net6.0\generaterundomnambers.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\bin\Debug\net6.0\generaterundomnambers.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\bin\Debug\net6.0\ref\generaterundomnambers.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\bin\Debug\net6.0\generaterundomnambers.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\ref\generaterundomnambers.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\GeneratingRandomNumbers\generaterundomnambers\obj\Debug\net6.0\generaterundomnambers.genruntimeconfig.cache
