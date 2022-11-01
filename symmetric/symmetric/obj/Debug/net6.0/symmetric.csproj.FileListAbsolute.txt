@@ -1,0 +1,15 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\bin\Debug\net6.0\symmetric.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\bin\Debug\net6.0\symmetric.deps.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\bin\Debug\net6.0\symmetric.runtimeconfig.json
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\bin\Debug\net6.0\symmetric.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\bin\Debug\net6.0\ref\symmetric.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\bin\Debug\net6.0\symmetric.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.AssemblyInfoInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.AssemblyInfo.cs
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\ref\symmetric.dll
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\symmetric\obj\Debug\net6.0\symmetric.genruntimeconfig.cache
