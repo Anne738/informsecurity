@@ -1,0 +1,8 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\bin\Debug\4.exe.config
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\bin\Debug\4.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\bin\Debug\4.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\obj\Debug\4.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\salt\4\obj\Debug\4.pdb
