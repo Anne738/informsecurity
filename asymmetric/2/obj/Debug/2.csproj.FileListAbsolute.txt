@@ -1,0 +1,27 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\bin\Debug\2.exe.config
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\bin\Debug\2.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\bin\Debug\2.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\obj\Debug\2.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymmetric\2\obj\Debug\2.pdb
+C:\infbez\inf_sec\asymmetric\2\bin\Debug\2.exe.config
+C:\infbez\inf_sec\asymmetric\2\bin\Debug\2.exe
+C:\infbez\inf_sec\asymmetric\2\bin\Debug\2.pdb
+C:\infbez\inf_sec\asymmetric\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\infbez\inf_sec\asymmetric\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\infbez\inf_sec\asymmetric\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\infbez\inf_sec\asymmetric\2\obj\Debug\2.exe
+C:\infbez\inf_sec\asymmetric\2\obj\Debug\2.pdb
+C:\info_sec\inf_sec\asymmetric\2\bin\Debug\2.exe.config
+C:\info_sec\inf_sec\asymmetric\2\bin\Debug\2.exe
+C:\info_sec\inf_sec\asymmetric\2\bin\Debug\2.pdb
+C:\info_sec\inf_sec\asymmetric\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\info_sec\inf_sec\asymmetric\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\info_sec\inf_sec\asymmetric\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\info_sec\inf_sec\asymmetric\2\obj\Debug\2.exe
+C:\info_sec\inf_sec\asymmetric\2\obj\Debug\2.pdb

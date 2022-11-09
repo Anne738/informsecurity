@@ -1,0 +1,8 @@
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\bin\Debug\asymm.exe.config
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\bin\Debug\asymm.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\bin\Debug\asymm.pdb
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\obj\Debug\asymm.csproj.AssemblyReference.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\obj\Debug\asymm.csproj.SuggestedBindingRedirects.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\obj\Debug\asymm.csproj.CoreCompileInputs.cache
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\obj\Debug\asymm.exe
+C:\Users\annbu\OneDrive\Рабочий стол\інф без\asymm\obj\Debug\asymm.pdb
