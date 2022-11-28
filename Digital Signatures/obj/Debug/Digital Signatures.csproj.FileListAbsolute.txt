@@ -1,0 +1,8 @@
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\bin\Debug\Digital Signatures.exe.config
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\bin\Debug\Digital Signatures.exe
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\bin\Debug\Digital Signatures.pdb
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\obj\Debug\Digital Signatures.csproj.AssemblyReference.cache
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\obj\Debug\Digital Signatures.csproj.SuggestedBindingRedirects.cache
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\obj\Debug\Digital Signatures.csproj.CoreCompileInputs.cache
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\obj\Debug\Digital Signatures.exe
+C:\info_sec\inf_sec\DigitalSignatures\Digital Signatures\obj\Debug\Digital Signatures.pdb
