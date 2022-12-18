@@ -1,0 +1,8 @@
+C:\info_sec\inf_sec\avt\bin\Debug\avt.exe.config
+C:\info_sec\inf_sec\avt\bin\Debug\avt.exe
+C:\info_sec\inf_sec\avt\bin\Debug\avt.pdb
+C:\info_sec\inf_sec\avt\obj\Debug\avt.csproj.AssemblyReference.cache
+C:\info_sec\inf_sec\avt\obj\Debug\avt.csproj.SuggestedBindingRedirects.cache
+C:\info_sec\inf_sec\avt\obj\Debug\avt.csproj.CoreCompileInputs.cache
+C:\info_sec\inf_sec\avt\obj\Debug\avt.exe
+C:\info_sec\inf_sec\avt\obj\Debug\avt.pdb
