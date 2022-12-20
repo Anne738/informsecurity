@@ -1,0 +1,15 @@
+2022-12-20 22:16:09.4589|Error|Admins part failed |Program | System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Program.Protector.OnlyForAdminsFeature() in C:\info_sec\inf_sec\logging\Program.cs:line 239
+   at Program.Main() in C:\info_sec\inf_sec\logging\Program.cs:line 121
+2022-12-20 22:16:47.1660|Warn|wrong login or password |Program | 
+2022-12-20 22:17:25.3814|Error|Admins part failed |Program | System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Program.Protector.OnlyForAdminsFeature() in C:\info_sec\inf_sec\logging\Program.cs:line 239
+   at Program.Main() in C:\info_sec\inf_sec\logging\Program.cs:line 121
+2022-12-20 22:17:43.0484|Fatal|Division by 0. |Program | System.DivideByZeroException: Attempted to divide by zero.
+   at Program.Main() in C:\info_sec\inf_sec\logging\Program.cs:line 140
+2022-12-20 22:34:50.5501|Error|Admins part failed |Program | System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Program.Protector.OnlyForAdminsFeature() in C:\info_sec\inf_sec\logging\Program.cs:line 241
+   at Program.Main() in C:\info_sec\inf_sec\logging\Program.cs:line 122
+2022-12-20 22:37:53.8000|Error|Admins part failed |Program | System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Program.Protector.OnlyForAdminsFeature() in C:\info_sec\inf_sec\logging\Program.cs:line 236
+   at Program.Main() in C:\info_sec\inf_sec\logging\Program.cs:line 122

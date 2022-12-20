@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZHdvCPqi85HnK3CabadQcNHu8V2aP9eG69LYKM2jLz6McM7Uie56V9f3b3yBa7SKQd54ToiXrqyAFQtxTArog==",
+  "success": true,
+  "projectFilePath": "C:\\info_sec\\inf_sec\\logging\\logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annbu\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
